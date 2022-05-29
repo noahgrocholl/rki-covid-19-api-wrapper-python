@@ -30,7 +30,7 @@ api.change_target_id_by_name_csv("Berlin")
 
 To finally get the data you want use:
 
-print(api.get_target_results("type of data you want")
+print(api.get_target_results("type of data you want"))
 
 
 Possible types of data are: 
